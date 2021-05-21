@@ -1,0 +1,7 @@
+Sys.setenv(RSTUDIO_PANDOC="D:/Program Files/RStudio/bin/pandoc")
+library(rmarkdown)
+args = commandArgs(trailingOnly=TRUE)
+path = getwd()
+newdir = file.path(path, args)
+print(newdir)
+render(newdir)

@@ -1,0 +1,12 @@
+---
+title: "Aula1_4"
+author: "Anotações"
+date: "21/05/2021"
+output: html_document
+---
+
+#### Linguagem R
+
+ Linguagem e também um ambiente de desenvolvimento integrado para cálculos estatíticos e gráficos.
+ 
+ 

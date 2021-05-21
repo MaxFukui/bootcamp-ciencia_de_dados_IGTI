@@ -1,0 +1,71 @@
+---
+title: "Aula1_2"
+author: "Anotações"
+date: "21/05/2021"
+output: html_document
+---
+
+#### Medias de Centralidade e Dispersão
+
+São medidas quantitativas para resumir e compreender o comportamento de uma variável
+
+$\sum_{i=1}^{n} x_{i}$
+
+> Some de i a n cada $x_{i}$
+
+#### Média Aritmética
+
+É a soma dos valroes dividido pela quantiade de amostras. Ou seja, o resultado dessa divisão equivale a um valor médio ente todos os valores
+
+$$\overline{x} = \frac{\sum{n=1}^{n}x_{i}} {n}$$
+
+Média a partir da amostra => $\overline{x}$
+
+Média de toda população = > $\mu$
+
+#### Desvio Padrão
+
+É uma medida de **Dispersão** que indica o quão longe os valores de uma variável estão do valor médio
+
+Desvio padrão amostral:
+
+$$ s = \sqrt{\frac {\sum{n=1}^{n}(X_{i}-\overline{x})} {n-1}} $$
+
+> "Os preços variam em média {desvio padrão} em torno do seu preço médio"
+
+Desvio padrão populacional:
+
+$$ \sigma = \sqrt{\frac {\sum{n=1}^{n}(X_{i}-\overline{x})} {n}} $$
+
+#### Coeficiente de Variação
+
+É uma medida padronizada de dispersão, é a razão entre o desvio padrão e a média
+
+$$ Coeficiente de Variação: \frac{s} {\overline{x}} * 100 $$
+S = Desvio Padrão
+
+$\overline{x}$ = média populacional
+
+> Os preços praticados para o café variam em média {variação} em torno do preço médio.
+
+> Como a resposta está em porcentagem, pode-se comparar a variação de outras fontes.
+
+#### Quartis
+
+São valores que dividem em variável em quatro partes iguais, e assim cada parte representa 25% da variável.
+
+$$1ºQuartil = (n*0.25)$$
+
+$$2ºQuartil = (n*0.5)$$
+
+$$3ºQuartil = (n*0.75)$$
+
+A mediana é robusta a outliers!
+
+#### Amplitude
+
+É o invervalo entre o vlaor máximo e o valor mínimo.
+
+$$max(x)$$
+$$min(x)$$
+max(x) até min(x).

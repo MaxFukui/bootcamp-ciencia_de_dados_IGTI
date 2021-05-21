@@ -1,0 +1,66 @@
+---
+title: "Aula1_3"
+author: "Anotações"
+date: "21/05/2021"
+output: 
+  html_document:
+    css: ../../styles/style.css
+---
+#### Nesta Aula
+
+- Tipos de variáveis
+
+- Histograma
+
+- Boxplot
+
+- Gráfico de linhas
+
+- Gráfico de Setores
+
+#### Tipos de variáveis
+
+![Tipos de variáveis](./img/00.png)
+
+#### Histograma
+
+Representação gráfica em barras, dividida em classes. A altura de cada barra representa a frequência com que o valor da classe ocorre. 
+
+ ![Exemplo histograma](./img/01.png)
+ 
+#### Boxplot.
+
+Visualização de uma variável baseada em seus quartis.
+  
+ ![Exemplo boxplot](./img/02.png)
+ 
+O IQR (Amplitude de quartil) é últil para achar o limite do boxplot e definir o que é outlier e o que não é.
+ 
+#### Boxplot exemplo 2.
+
+Relação entre uma variável qualitativa e uma quantitativa.
+
+![Exemplo boxplot](./img/03.png)
+
+![Exemplo boxplot](./img/04.png)
+
+
+#### Gráfico de linhas
+
+Mostra a evolução de uma variável ao longo do tempo.
+
+![Gráficos de linhas](./img/05.png)
+
+#### Gráfico de dispersão
+
+Utilizado para anlaisar a relação entre duas variáveis quantitativas.
+
+![Scatterplot](./img/06.png)
+
+ ![Exemplos Hipotéticos](./img/07.png)
+ 
+#### Gráfico de Setores 
+
+Exibe a proporção de cada nível categórico de uma variável.
+ 
+![Exemplos Gráfico de Setores](./img/08.png)
