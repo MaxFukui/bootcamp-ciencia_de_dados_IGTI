@@ -10,3 +10,34 @@ output: html_document
  Linguagem e também um ambiente de desenvolvimento integrado para cálculos estatíticos e gráficos.
  
  
+### Tipos de Objeto
+
+Numeric - Inteiro ou Decimal (int ou float).
+
+character - Texto(String).
+
+Data Time - Data, hora.
+
+Factor - Atribui codificação inteira ao dado.
+
+### Bibliotecas Relevantes
+
+- Visualização de dados
+
+  - ggplot
+
+  - plotly
+
+![](./img/08.png)
+
+- Machine Learning
+
+  - Caret - 180 algoritmos de Machine Learning
+  
+  - H2O - Machine Learning - Possui Cloud Próprio
+
+- Manipulação de dados
+
+  - dplyr
+  
+  - data.table
